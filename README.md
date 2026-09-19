@@ -253,7 +253,7 @@ Python and SQL clearly stand out in terms of job count and salary potential, fol
 
 ***Visualization for the queried results***
 
-![alt text](image-3.png)
+![alt text](Assets/Top_Demand_Top_Paying_Skills.png)
 
 **Note:** *The salary figures represent the minimum and maximum values present in the dataset. Some maximum values are unusually high, so they should not be interpreted as typical salaries for these roles.*
 
