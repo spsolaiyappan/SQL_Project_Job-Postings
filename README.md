@@ -161,7 +161,7 @@ The analysis suggests that SQL and Python have broad demand across multiple data
 
 ***Visualization for the queried results***
 
-![alt text](image-1.png)
+![alt text](Assets/Skill_demand.png)
 
 ---
 
