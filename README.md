@@ -196,7 +196,7 @@ This suggests that remote work does not automatically result in higher compensat
 
 ***Visualization for the queried results***
 
- ![alt text](image-2.png)
+ ![alt text](Assets/Top_Paying_Skills_AVG.png)
  
 ---
 ### 🎯 5. What Skills Should You Learn?
