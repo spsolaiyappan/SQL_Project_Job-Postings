@@ -92,7 +92,7 @@ The goal was to explore which data job titles have the highest salary levels and
 
 ***Visualization for the queried results***
 
-  ![alt text](image.png)
+  ![alt text](Assets/Top_Paying_Job_AVG.png)
 
 ---
                                                                         
